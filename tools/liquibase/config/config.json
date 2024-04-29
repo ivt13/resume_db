@@ -1,0 +1,6 @@
+{
+    "databasetype":"pg",
+    "database":"resume_db",
+    "liquibaseLogLevel":"debug",
+    "liquibaseChangeFile":"master-changelog.xml"
+}
